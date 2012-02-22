@@ -1,0 +1,15 @@
+<project>
+	<modelVersion>4.0.0</modelVersion>	
+	<groupId>lets.talk</groupId>	
+	<artifactId>lets-talk</artifactId>	
+	<version>0.0.1</version>
+	
+	<module>common</core>
+	<module>dao</module>
+	<module>dao-impl</module>
+	<module>business</module>
+	<module>business-impl</module>
+	<module>audio-server</module>
+	<module>audio-server-impl</module>
+	<module>webapp</module>
+</project>
